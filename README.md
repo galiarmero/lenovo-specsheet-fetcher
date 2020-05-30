@@ -31,7 +31,7 @@ This tool scrapes and aggregates specsheets for multiple Lenovo laptop models wh
   node lenovo-specsheet-fetcher.js
   ```
 
-  ![Demo](./demo.gif)
+  <img src="demo.gif" width="428.25" height="618.75"/>
 
 The script generates `specs.csv` containing the aggregated specs.
 
