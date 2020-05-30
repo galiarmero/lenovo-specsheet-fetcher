@@ -1,0 +1,65 @@
+models:
+  - 81U40056PH
+  - 81U40055PH
+  - 81UE0057PH
+  - 81TC00AQPH
+  - 81UE0020PH
+  - 81UE0017PH
+  - 81TC006MPH
+  - 81TC002UPH
+  - 81TC006NPH
+  - 81TC002TPH
+  - 81TD005LPH
+  - 81Q900A5PH
+  - 81Q900A6PH
+  - 81Q900AEPH
+  - 81TD003NPH
+  - 81TD000XPH
+  - 81Q90065PH
+  - 81Q9003NPH
+  - 81Q90068PH
+  - 81Q9003RPH
+  - 81RS004SPH
+  - 81RS002APH
+  - 81NX002TPH
+  - 81NX0016PH
+  - 81NX002UPH
+  - 81NX0017PH
+  - 81Q8002LPH
+fields:
+  - "Model"
+  - "Product"
+  - "Region"
+  - "Country/Region"
+  - "Machine Type"
+  - "Processor"
+  - "Graphics"
+  - "Chipset"
+  - "Memory"
+  - "Storage"
+  - "Display"
+  - "Touchscreen"
+  - "Pen"
+  - "Optical"
+  - "Media Reader"
+  - "Ethernet"
+  - "WLAN + Bluetooth"
+  - "WWAN"
+  - "Case Material"
+  - "Bundled Accessories"
+  - "Camera"
+  - "Microphone"
+  - "Color"
+  - "Keyboard"
+  - "Fingerprint Reader"
+  - "NFC"
+  - "TPM"
+  - "Battery"
+  - "Power Adapter"
+  - "Operating System"
+  - "Bundled Software"
+  - "Base Warranty"
+  - "Bundled Service"
+  - "EAN / UPC / JAN"
+  - "End of Support"
+  - "Announce Date"

@@ -1,0 +1,24 @@
+{
+  "name": "lenovo-specsheet-fetcher",
+  "version": "1.0.0",
+  "description": "Generate CSV specsheet for one or more Lenovo laptops given the MTMs (Machine Type and Model)",
+  "main": "lenovo-specsheet-fetcher.js",
+  "scripts": {
+    "start": "node lenovo-specsheet-fetcher.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "lenovo",
+    "specs",
+    "fetch",
+    "http",
+    "scrape"
+  ],
+  "author": "Gali Armero",
+  "license": "MIT",
+  "dependencies": {
+    "axios": "^0.19.2",
+    "cheerio": "^1.0.0-rc.3",
+    "js-yaml": "^3.14.0"
+  }
+}
